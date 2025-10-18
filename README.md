@@ -20,7 +20,7 @@ A curated collection of prompts to generate realistic photographs and portraits 
 | Model | Folder | Prompts | Features |
 |--------|---------|---------|----------|
 | NanoBanana | [`/prompts/nanobanana`](./prompts/nanobanana) | 6 | Extreme photorealism |
-| GPT-5 | [`/prompts/gpt-5`](./prompts/gpt-5) | 3 | Advanced contextual understanding |
+| GPT-5 | [`/prompts/gpt-5`](./prompts/gpt-5) | 4 | Advanced contextual understanding |
 | Midjourney | [`/prompts/midjourney`](./prompts/midjourney) | 0 | Conceptual art and creativity |
 | DALL-E | [`/prompts/dalle`](./prompts/dalle) | 0 | Versatility and precision |
 | Stable Diffusion | [`/prompts/stable-diffusion`](./prompts/stable-diffusion) | 0 | Open source and customizable |
@@ -31,6 +31,7 @@ A curated collection of prompts to generate realistic photographs and portraits 
 
 | Image | Model | Style | Prompt | Link |
 |-------|-------|-------|--------|------|
+| ![LinkedIn Frame Portrait](./examples/gpt-5/social-media-linkedin-frame-portrait.png)<br>*LinkedIn Frame Portrait* | **GPT-5** | Social Media Frame | Professional portrait inside white 3D LinkedIn frame with logo, sitting in suit, dark background, cinematic lighting, blue checkmark, "Create with prompts #prompt" caption... | [View full →](./prompts/gpt-5/social-media/linkedin-frame-portrait.md) |
 | ![Paparazzi Street Style](./examples/nanobanana/portrait-paparazzi-street-style.png)<br>*Paparazzi Street Style* | **NanoBanana** | Paparazzi / Street | Raw unplanned paparazzi portrait, looking over shoulder with confident smirk, harsh flash lighting, high-ISO grain, dark turtleneck and sunglasses, bustling crowd... | [View full →](./prompts/nanobanana/portrait/paparazzi-street-style.md) |
 | ![Modern Blue Armchair Ad](./examples/gpt-5/advertising-modern-blue-armchair-ad.png)<br>*Modern Blue Armchair Ad* | **GPT-5** | Modern Advertising | Striking commercial advertisement with blue plush armchair, athletic-inspired blue and yellow outfit, gradient background with stylized "X", magazine layout... | [View full →](./prompts/gpt-5/advertising/modern-blue-armchair-ad.md) |
 | ![Ink Sketch Drawing](./examples/nanobanana/artistic-ink-sketch-drawing.png)<br>*Ink Sketch Drawing* | **NanoBanana** | Artistic Line Drawing | Photo-style blue and white ink sketch on notebook paper, intricate fine line detailing, hand holding pen and eraser, work in progress aesthetic... | [View full →](./prompts/nanobanana/artistic/ink-sketch-drawing.md) |
