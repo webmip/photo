@@ -1,0 +1,29 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Large files (if needed, use Git LFS)
+*.psd
+*.ai
+*.sketch
+
+# Personal notes (optional)
+notes/
+scratch/
+
+# Environment files
+.env
+.env.local
