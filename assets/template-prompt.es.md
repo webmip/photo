@@ -6,6 +6,7 @@
 - **Categoría:** [Portrait/Landscape/Artistic/Fashion/etc.]
 - **Estilo:** [Photorealistic/Cinematic/Editorial/etc.]
 - **Dificultad:** [Básico/Intermedio/Avanzado]
+- **Imagen de Referencia:** [Referencia Pixabay](https://pixabay.com/es/photos/tall-man-entrenador-joven-body-1203884/)
 
 ## 🎨 Prompt
 
@@ -32,26 +33,5 @@ Ejemplo: blurry, low quality, distorted, deformed, ugly, bad anatomy, etc.
 
 ## 🖼️ Ejemplos Visuales
 
-![Ejemplo 1](../../examples/[modelo]/[nombre-archivo].jpg)
+![Ejemplo 1](../../examples/[modelo]/[nombre-archivo].png)
 *Descripción breve del resultado*
-
-## 💡 Tips y Variaciones
-
-- **Tip 1:** [Consejo para mejorar resultados]
-- **Tip 2:** [Cómo adaptar el prompt]
-- **Variación:** [Sugerencia de modificación]
-
-## 🏷️ Tags
-
-`photorealism` `portrait` `cinematic` `[otros tags relevantes]`
-
-## 📊 Información de Contribución
-
-- **Autor:** [@tu-usuario](https://github.com/tu-usuario)
-- **Fecha:** YYYY-MM-DD
-- **Versión del Modelo:** [Si aplica]
-- **Testado:** ✅ Sí / ❌ No
-
-## 📝 Notas Adicionales
-
-[Cualquier información adicional relevante, limitaciones conocidas, o contexto especial]
