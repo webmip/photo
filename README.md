@@ -1,0 +1,166 @@
+# 🎨 Photo - AI Image Prompts Collection
+
+A curated collection of prompts to generate realistic photographs and portraits using the latest AI models like NanoBanana, GPT-5, Midjourney, DALL-E, and Stable Diffusion.
+
+[![CC0-1.0 License](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+## 📋 Table of Contents
+
+- [Available Models](#available-models)
+- [Featured Examples](#featured-examples)
+- [How to Use](#how-to-use)
+- [Contributing](#contributing)
+- [Repository Structure](#repository-structure)
+- [Community](#community)
+
+## 🤖 Available Models
+
+| Model | Folder | Prompts | Features |
+|--------|---------|---------|----------|
+| NanoBanana | [`/prompts/nanobanana`](./prompts/nanobanana) | 0 | Extreme photorealism |
+| GPT-5 | [`/prompts/gpt-5`](./prompts/gpt-5) | 0 | Advanced contextual understanding |
+| Midjourney | [`/prompts/midjourney`](./prompts/midjourney) | 0 | Conceptual art and creativity |
+| DALL-E | [`/prompts/dalle`](./prompts/dalle) | 0 | Versatility and precision |
+| Stable Diffusion | [`/prompts/stable-diffusion`](./prompts/stable-diffusion) | 0 | Open source and customizable |
+
+## ⭐ Featured Examples
+
+### Prompt Gallery
+
+| Image | Model | Style | Prompt | Link |
+|-------|-------|-------|--------|------|
+| ![Fire Water Portrait](./examples/nanobanana/fire-water-portrait.jpg)<br>*Fire & Water Duality* | **NanoBanana** | Dramatic Photorealism | Epic cinematic hyper-realistic portrait of two identical men, standing back to back in perfect symmetry. The man on the left engulfed in roaring flames... | [View full →](./prompts/nanobanana/portrait/fire-water-duality.md) |
+| ![Cyberpunk Street](./examples/midjourney/cyberpunk-street-night.jpg)<br>*Neon Streets* | **Midjourney** | Cinematic Cyberpunk | Photorealistic cyberpunk street scene at night, rain-soaked neon reflections, volumetric fog, moody lighting... | [View full →](./prompts/midjourney/landscape/cyberpunk-street.md) |
+| ![Fashion Portrait](./examples/gpt-5/editorial-fashion-studio.jpg)<br>*Editorial Fashion* | **GPT-5** | Fashion Photography | High-end fashion editorial portrait, studio lighting setup with softbox and rim light, model wearing avant-garde couture... | [View full →](./prompts/gpt-5/fashion/editorial-studio.md) |
+
+> 💡 **Tip:** Click "View full" to access detailed prompts, parameters, and negative prompts.
+
+## 💡 How to Use
+
+1. **Explore** the folder for the model you're using
+2. **Browse** categories (portrait, landscape, artistic, etc.)
+3. **Copy** the prompt that interests you
+4. **Customize** parameters according to your needs
+5. **Share** your results in Issues or Discussions
+
+### Quick Example
+
+```
+
+
+# 1. Find a prompt
+
+cd prompts/nanobanana/portrait/
+
+# 2. Read the .md file with all details
+
+cat fire-water-duality.md
+
+# 3. Copy the prompt and use it in your model
+
+```
+
+## 🤝 Contributing
+
+This repository grows thanks to the community! All contributions are made via **Fork + Pull Request**.
+
+### How to contribute:
+
+1. **Fork** this repository (Fork button at the top right)
+2. **Clone** your fork: `git clone https://github.com/YOUR-USERNAME/photo.git`
+3. **Create** a branch: `git checkout -b prompt/model-category-name`
+4. **Add** your prompt following the [template](./assets/template-prompt.md)
+5. **Commit** your changes: `git commit -m "feat: add X prompt"`
+6. **Push** to your fork: `git push origin your-branch`
+7. **Open** a Pull Request
+
+📖 Read the [Complete Contribution Guide](CONTRIBUTING.md) for more details.
+
+### What can you contribute?
+
+- ✨ New tested and functional prompts
+- 🖼️ Visual examples of your generations
+- 🐛 Reports of prompts that don't work
+- 📚 Documentation improvements
+- 💡 Tips and variations of existing prompts
+
+## 📂 Repository Structure
+
+```
+
+prompts/
+├── nanobanana/
+│   ├── portrait/
+│   ├── landscape/
+│   └── artistic/
+├── gpt-5/
+├── midjourney/
+├── dalle/
+└── stable-diffusion/
+
+examples/          \# Generated example images
+assets/            \# Templates and resources
+
+```
+
+Each prompt includes:
+- 📝 Complete and optimized prompt
+- 🚫 Negative prompt (what to avoid)
+- ⚙️ Recommended parameters
+- 🖼️ Visual examples
+- 💡 Usage tips and variations
+
+## 🌟 Most Popular Prompts
+
+*This section will be updated with the most used and best-rated prompts by the community.*
+
+## 🎓 Learning Resources
+
+### Guides by Model
+
+- [NanoBanana Guide](./docs/nanobanana-guide.md) *(coming soon)*
+- [Midjourney Guide](./docs/midjourney-guide.md) *(coming soon)*
+- [Prompt Engineering Guide](./docs/prompt-engineering-basics.md) *(coming soon)*
+
+### External Links
+
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [Midjourney Documentation](https://docs.midjourney.com/)
+- [Stable Diffusion Prompt Book](https://stability.ai/learn)
+
+## 💬 Community
+
+Questions? Ideas? Want to share your results?
+
+- 💭 [Discussions](https://github.com/webmip/photo/discussions) - General conversations
+- 🐛 [Issues](https://github.com/webmip/photo/issues) - Report problems
+- ⭐ [Star this repo](https://github.com/webmip/photo) - Help others discover it
+
+## 📜 License
+
+This project is licensed under **[CC0-1.0](LICENSE)** - Public Domain Universal.
+
+This means:
+- ✅ You can use these prompts commercially
+- ✅ You can modify them without restrictions
+- ✅ No attribution required (though appreciated)
+- ✅ You can distribute them freely
+
+## 🙏 Acknowledgments
+
+Thanks to all the [contributors](https://github.com/webmip/photo/graphs/contributors) who make this collection grow.
+
+Featured community prompts:
+- *Be the first to appear here!*
+
+---
+
+<div align="center">
+
+**⚡ Found it useful? Give it a ⭐ and share with other creators**
+
+[Report an Issue](https://github.com/webmip/photo/issues/new) · [Request Prompt](https://github.com/webmip/photo/issues/new?template=request-prompt.md) · [Contribute](CONTRIBUTING.md)
+
+</div>
