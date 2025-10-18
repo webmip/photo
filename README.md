@@ -19,8 +19,8 @@ A curated collection of prompts to generate realistic photographs and portraits 
 
 | Model | Folder | Prompts | Features |
 |--------|---------|---------|----------|
-| NanoBanana | [`/prompts/nanobanana`](./prompts/nanobanana) | 3 | Extreme photorealism |
-| GPT-5 | [`/prompts/gpt-5`](./prompts/gpt-5) | 1 | Advanced contextual understanding |
+| NanoBanana | [`/prompts/nanobanana`](./prompts/nanobanana) | 4 | Extreme photorealism |
+| GPT-5 | [`/prompts/gpt-5`](./prompts/gpt-5) | 2 | Advanced contextual understanding |
 | Midjourney | [`/prompts/midjourney`](./prompts/midjourney) | 0 | Conceptual art and creativity |
 | DALL-E | [`/prompts/dalle`](./prompts/dalle) | 0 | Versatility and precision |
 | Stable Diffusion | [`/prompts/stable-diffusion`](./prompts/stable-diffusion) | 0 | Open source and customizable |
@@ -31,11 +31,12 @@ A curated collection of prompts to generate realistic photographs and portraits 
 
 | Image | Model | Style | Prompt | Link |
 |-------|-------|-------|--------|------|
+| ![Fire Water Duality](./examples/nanobanana/portrait-fire-water-duality.png)<br>*Fire & Water Duality* | **NanoBanana** | Epic Cinematic | Two identical figures back to back, one engulfed in flames, one drenched in water, dramatic elemental collision, perfect symmetry, 8K hyperrealism... | [View full →](./prompts/nanobanana/portrait/fire-water-duality.md) |
+| ![Crimson Red Cinematic](./examples/gpt-5/portrait-crimson-red-cinematic.png)<br>*Crimson Red Cinematic* | **GPT-5** | Cinematic High Contrast | Vertical portrait (1080x1920) with stark cinematic lighting, low upward angle, deep crimson red background, sculptural elegance and quiet dominance... | [View full →](./prompts/gpt-5/portrait/crimson-red-cinematic.md) |
 | ![Empire Burgundy Suit](./examples/nanobanana/portrait-empire-burgundy-suit.png)<br>*Empire Burgundy Suit* | **NanoBanana** | Fashion Editorial | Stylish burgundy three-piece suit with red sneakers, confident pose against red wall with "EMPIRE" text, modern high-low fashion mix... | [View full →](./prompts/nanobanana/portrait/empire-burgundy-suit.md) |
 | ![Minimalist Studio](./examples/nanobanana/portrait-minimalist-studio-silhouette.png)<br>*Minimalist Studio Silhouette* | **NanoBanana** | Minimalist Studio | Minimalist studio portrait against black wall, dramatic side lighting creating mysterious silhouette, all-black outfit, reserved expression... | [View full →](./prompts/nanobanana/portrait/minimalist-studio-silhouette.md) |
 | ![Vintage Car Night](./examples/nanobanana/portrait-vintage-car-night.png)<br>*Vintage Car Night Portrait* | **NanoBanana** | Cinematic Photorealism | Cinematic hyper-realistic portrait inside vintage red car at night, neon reflections on rain-soaked windows, moody lighting, 35mm f/1.4 lens... | [View full →](./prompts/nanobanana/portrait/vintage-car-night-portrait.md) |
 | ![Neon Lights Portrait](./examples/gpt-5/portrait-neon-lights.png)<br>*Neon Lights Portrait* | **GPT-5** | Futuristic Neon | Photorealistic neon portrait with vibrant purple, pink, and blue light tubes, dramatic side lighting, chrome reflective surfaces, cyberpunk aesthetic... | [View full →](./prompts/gpt-5/portrait/neon-lights-portrait.md) |
-| ![Fashion Portrait](./examples/gpt-5/editorial-fashion-studio.jpg)<br>*Editorial Fashion* | **GPT-5** | Fashion Photography | High-end fashion editorial portrait, studio lighting setup with softbox and rim light, model wearing avant-garde couture... | [View full →](./prompts/gpt-5/fashion/editorial-studio.md) |
 
 > 💡 **Tip:** Click "View full" to access detailed prompts, parameters, and negative prompts.
 
