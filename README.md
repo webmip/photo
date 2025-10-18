@@ -19,7 +19,7 @@ A curated collection of prompts to generate realistic photographs and portraits 
 
 | Model | Folder | Prompts | Features |
 |--------|---------|---------|----------|
-| NanoBanana | [`/prompts/nanobanana`](./prompts/nanobanana) | 4 | Extreme photorealism |
+| NanoBanana | [`/prompts/nanobanana`](./prompts/nanobanana) | 5 | Extreme photorealism |
 | GPT-5 | [`/prompts/gpt-5`](./prompts/gpt-5) | 2 | Advanced contextual understanding |
 | Midjourney | [`/prompts/midjourney`](./prompts/midjourney) | 0 | Conceptual art and creativity |
 | DALL-E | [`/prompts/dalle`](./prompts/dalle) | 0 | Versatility and precision |
@@ -31,6 +31,7 @@ A curated collection of prompts to generate realistic photographs and portraits 
 
 | Image | Model | Style | Prompt | Link |
 |-------|-------|-------|--------|------|
+| ![Ink Sketch Drawing](./examples/nanobanana/artistic-ink-sketch-drawing.png)<br>*Ink Sketch Drawing* | **NanoBanana** | Artistic Line Drawing | Photo-style blue and white ink sketch on notebook paper, intricate fine line detailing, hand holding pen and eraser, work in progress aesthetic... | [View full →](./prompts/nanobanana/artistic/ink-sketch-drawing.md) |
 | ![Fire Water Duality](./examples/nanobanana/portrait-fire-water-duality.png)<br>*Fire & Water Duality* | **NanoBanana** | Epic Cinematic | Two identical figures back to back, one engulfed in flames, one drenched in water, dramatic elemental collision, perfect symmetry, 8K hyperrealism... | [View full →](./prompts/nanobanana/portrait/fire-water-duality.md) |
 | ![Crimson Red Cinematic](./examples/gpt-5/portrait-crimson-red-cinematic.png)<br>*Crimson Red Cinematic* | **GPT-5** | Cinematic High Contrast | Vertical portrait (1080x1920) with stark cinematic lighting, low upward angle, deep crimson red background, sculptural elegance and quiet dominance... | [View full →](./prompts/gpt-5/portrait/crimson-red-cinematic.md) |
 | ![Empire Burgundy Suit](./examples/nanobanana/portrait-empire-burgundy-suit.png)<br>*Empire Burgundy Suit* | **NanoBanana** | Fashion Editorial | Stylish burgundy three-piece suit with red sneakers, confident pose against red wall with "EMPIRE" text, modern high-low fashion mix... | [View full →](./prompts/nanobanana/portrait/empire-burgundy-suit.md) |
